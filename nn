@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Подписные издания</title>
+    <link rel="stylesheet" href="style.css"/>
+
+
+</head>
+<body>
+    <header>
+        <img class="logo" src="Better Books.png"/>
+        <a class="navigat" href="">Ассортимент</a>
+        <a class="navigat" href="">Адреса магазинов</a>
+        <a class="navigat" href="">Поддержка и контакты</a>
+
+    </header>
+    <main>
+        <section class="cover">
+            <div class="left">
+                <div class="textleft">
+                    <h1>Книги для всех</h1>
+                    <p>Продаем книги с 1926 года</p>
+                    <div class="socimg">
+                        <img src="odnoklassniki.png"/>
+                        <img src="vkontakte.png"/>
+                        <img src="yandex.png"/>
+                    </div>
+                
+                    <button class="btn">Смотреть каталог</button>
+                </div>
+            </div>
+            <div class="right">
+                <img src="MainImage.png"/>
+            </div>
+        </section>
+        <section class="direction">
+            <h2>Основный направления</h2>
+            <div class="row">
+                <div>
+                    <img src="row1.png"/>
+                    <p>Классическая исовременная художественная проза</p>
+                </div>
+                <div>
+                    <img src="row2.png"/>
+                    <p>Философия и история</p>
+                </div>
+                <div>
+                    <img src="row3.png"/>
+                    <p>Литературоведение и теория театра и кино</p>
+                </div>
+                <div>
+                    <img src="row4.png"/>
+                    <p>Альбомы по искусству, книги и журналы</p>
+                </div>
+            </div>
+        </section>
+   
+    </main>
+</body>
+</html>
